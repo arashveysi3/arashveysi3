@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arashveysi3?label=Follow)
-[![Linkedin: arashveysi3](https://img.shields.io/badge/arashveysi3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasvhveysi3)](https://www.linkedin.com/in/arashveysi3/)
+[![Linkedin arashveysi3](https://img.shields.io/badge/arashveysi3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasvhveysi3)](https://www.linkedin.com/in/arashveysi3/)
 ![GitHub followers](https://img.shields.io/github/followers/arashveysi3?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=arashveysi3)
 
